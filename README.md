@@ -1,53 +1,88 @@
-# 🛡️ Fabio Everton | Guardian Architect
-### AI Governance Lead | Salesforce & ServiceNow Solution Architect
-**NIST AI RMF | ISO 42001 | LGPD & GDPR Compliance**
+🛡️ Fabio Everton | AI Governance & Cloud Architecture (Hands-on)
 
-Building **Trustworthy AI** ecosystems across enterprise platforms, with a focus on regulatory compliance, architecture, and deliverable-ready solutions.
+Focused on building and validating AI governance and enterprise integration across Salesforce, ServiceNow, and Cloud platforms.
 
----
+## Core Stack
+- Salesforce: Agentforce, Data Cloud, Einstein Trust Layer
+- ServiceNow: Now Assist, Virtual Agents, GRC integrations
+- Google Cloud: Vertex AI, BigQuery, secure orchestration
+- Governance: NIST AI RMF, ISO 42001, LGPD / GDPR
 
-## 🔗 Quick Access
-[**LinkedIn Profile**](https://www.linkedin.com/in/fabio-everton-3b62b1129/) | [**Technical Portfolio (Guardian Project)**](https://github.com/FABIOEVERTON/guardian-architect-portfolio) | [**📄 Save as PDF**](javascript:window.print())  
+## Focus Areas
+- AI governance applied to enterprise systems
+- Multi-platform AI integration (Salesforce + ServiceNow + Cloud)
+- Auditability, compliance, and traceable AI systems
+- Hands-on implementation of AI workflows and agents
 
-**Direct Portfolio Access:**  
-- [Certifications](https://github.com/FABIOEVERTON/guardian-architect-portfolio/tree/main/certifications)  
-- [Hands-On Labs](https://github.com/FABIOEVERTON/guardian-architect-portfolio/tree/main/hands-on)  
-
----
-
-## 🚀 Guardian Architect Strategic Roadmap
-Executing an intensive technical residency to dominate AI lifecycle management across Salesforce, ServiceNow, and Cloud ecosystems, emphasizing:  
-
-### 🔶 Salesforce Ecosystem
-- Agentforce & Einstein Trust Layer: configuration and governance of AI agents  
-- Data Cloud Orchestration: secure analytics, identity resolution, calculated insights  
-- Ethical AI: bias mitigation, prompt engineering, privacy enforcement  
-
-### 🔷 ServiceNow Ecosystem
-- Now Assist & Virtual Agents: generative workflow deployment  
-- AI Search & Intelligence: integration with GRC modules  
-- SecOps AI: threat mitigation and automated risk response  
-
-### ☁️ Cloud & Integration
-- Google Cloud (Vertex AI, BigQuery, Cloud Armor) integration for cross-platform governance  
-- REST API orchestration and unified logging for traceability and compliance  
+## Links
+- LinkedIn: [Profile]
+- Portfolio: https://fabioeverton.github.io/
+- GitHub Projects: https://github.com/FABIOEVERTON/guardian-architect-portfolio
 
 ---
 
-## 🛠️ Skills & Competencies
-- **Technical:** Salesforce, ServiceNow, Google Cloud, Multi-platform Integration, Logging & Audit  
-- **Governance & Compliance:** NIST AI RMF, ISO 42001, LGPD, EU AI Act, BACEN/Open Finance  
-- **Soft Skills:** Systems thinking, executive communication, stakeholder management, ethical decision-making  
+"In AI we trust, but in Governance we audit."
+
+
+# 🌐 GITHUB PAGES (PORTAL COMPLETO / PORTFOLIO)
+
+🛡️ Fabio Everton | Guardian Architect
+
+## AI Governance & Enterprise Architecture (Hands-on Portfolio)
+
+This portal documents the evolution of a hands-on architecture and governance practice across AI, Cloud, and enterprise platforms.
 
 ---
 
-## 📊 Deliverables & Portfolio Highlights
-- Multi-platform AI agents (Salesforce & ServiceNow) with governance built-in  
-- Hands-on projects across Cloud, AI, Governance, Salesforce, ServiceNow  
-- Dashboards, audit logs, and compliance reports  
-- Templates, scripts, and reference architectures for enterprise deployments  
+## 🧱 Guardian Architect Scope
 
-*"In AI we trust, but in Governance we audit."*  
+The Guardian Architect framework focuses on designing, implementing, and validating AI systems with built-in governance, traceability, and compliance.
 
 ---
-**Explore my work:** [Technical Portfolio →](https://github.com/FABIOEVERTON/guardian-architect-portfolio)  
+
+## 🔶 Salesforce Ecosystem
+- Agentforce & Einstein Trust Layer: AI agent configuration and governance
+- Data Cloud: identity resolution, secure analytics, calculated insights
+- Responsible AI: bias mitigation, prompt control, privacy enforcement
+
+---
+
+## 🔷 ServiceNow Ecosystem
+- Now Assist & Virtual Agents: generative workflow automation
+- AI Search: enterprise knowledge integration
+- GRC & SecOps AI: risk detection and automated response workflows
+
+---
+
+## ☁️ Cloud Integration Layer
+- Google Cloud (Vertex AI, BigQuery)
+- Cross-platform API orchestration
+- Unified logging, audit trails, and traceability layer
+
+---
+
+## 🛠️ Governance & Compliance Frameworks
+- NIST AI RMF
+- ISO/IEC 42001
+- LGPD / GDPR
+- Enterprise auditability and risk controls
+
+---
+
+## 📊 Deliverables
+- AI agents with governance-by-design
+- Multi-platform integration workflows
+- Audit logs and compliance reporting structures
+- Reference architectures for enterprise deployment
+- Hands-on labs and experimental implementations
+
+---
+
+## 🔗 Repository
+- Certifications: https://github.com/FABIOEVERTON/guardian-architect-portfolio/tree/main/certifications
+- Full Project: https://github.com/FABIOEVERTON/guardian-architect-portfolio
+- Live Portal: https://fabioeverton.github.io/
+
+---
+
+"In AI we trust, but in Governance we audit." 
