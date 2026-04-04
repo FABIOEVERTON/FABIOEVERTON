@@ -1,49 +1,28 @@
-🛡️ Fabio Everton | AI Governance & Cloud Architecture (Hands-on)
+# Fabio Everton | Python Developer & Automation
 
-AI Governance and enterprise integration across Salesforce, ServiceNow, and Cloud platforms, focused on applied learning and experimental implementation.
+Python developer in transition from construction management (R$30M+ in projects). Currently building my first automation projects and studying for Kubernetes (CKA) and AI Governance (AIGP) certifications.
 
----
+## 🔧 Current Project
 
-## 🧭 Focus Areas
+**File Organizer Automation**
+- Python script that automatically organizes download folders by file extension
+- Docker container for easy execution
+- Available for freelance: $30-50/project
+- [GitHub Repository](link)
 
-- AI systems and workflow experimentation (hands-on)
-- Enterprise integration across Salesforce, ServiceNow, and Cloud
-- Applied AI governance principles (NIST AI RMF, ISO 42001, LGPD)
-- Early-stage architecture design and validation
+## 📚 What I'm Studying
+- Docker & Python automation (in progress)
+- Kubernetes (CKA) — starting soon
+- AI Governance (AIGP) — starting soon
 
----
-
-## 🧱 Technology Scope
-
-### Salesforce
-- Agentforce (exploration)
-- Data Cloud (concepts + practice)
-- Einstein Trust Layer (governance study)
-
-### ServiceNow
-- Now Assist (experimentation)
-- Virtual Agents (workflow testing)
-- GRC concepts (foundational learning)
-
-### Cloud
-- Google Cloud Vertex AI (labs)
-- BigQuery (basic analytics)
-- API integration experiments
-
----
-
-## 📊 Status
-
-Continuously evolving through hands-on labs, experiments, and structured learning in AI governance and cloud architecture.
-
----
+## 🏗️ Background
+- 18 years managing construction projects (R$30M+)
+- Contract negotiation, compliance, risk management, team leadership
+- Currently transitioning into tech, bringing management experience to software development
 
 ## 🔗 Links
-
 - Portfolio: https://fabioeverton.github.io/
-- Projects: https://github.com/FABIOEVERTON/guardian-architect-portfolio
-- Certifications: /certifications
+- LinkedIn: [link]
+- Available for freelance: [Fiverr link]
 
----
-
-"In AI we trust, but in Governance we audit."
+*"Build first. Sell first. Certify later."*
