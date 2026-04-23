@@ -1,149 +1,86 @@
-# 🧠 Fabio Everton  
-**Automation | Cloud Security | AI Governance & Technical Compliance**
 
-Professional focused on building automation systems, developing cloud security foundations, and applying AI governance practices with emphasis on independent technical validation, auditability, and compliance of systems.
 
-Background includes large-scale construction project management (R$30M+ exposure), with strong experience in execution, risk control, and operational systems. Currently applying these capabilities to automation, infrastructure security, and governance-oriented analysis of technical systems.
+```markdown
+# Fabio Everton 🇧🇷
+### AI Governance Engineer | LLM Agents | OPA/Rego | LGPD & PL 2338/2023
 
----
+> 🔐 *I build AI systems that don't just work — they can be audited, explained, and defended in court.*
 
-## 📌 GitHub Architecture
-
-FABIOEVERTON/  
-├── file-organizer/  
-├── kubernetes-security-labs/  
-├── cloud-security-labs/  
-├── ai-governance-notes/  
-├── automation-experiments/  
-└── README.md  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fabio_Everton-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/fabio-everton-3b62b1129/)
+[![GitHub](https://img.shields.io/badge/GitHub-FABIOEVERTON-181717?style=flat&logo=github)](https://github.com/FABIOEVERTON)
+📍 Brasília, Brazil · Open to remote
 
 ---
 
-## ⭐ Pinned Repositories Strategy
+## 🚀 Featured Projects
 
-file-organizer → core automation system  
-kubernetes-security-labs → cloud-native security  
-cloud-security-labs → infrastructure security foundations  
-ai-governance-notes → governance and regulatory frameworks  
-automation-experiments → applied scripts and prototypes  
+### 🛡️ [Fellow Governance](https://github.com/FABIOEVERTON/Fellow_Governance)
+> Transforma notificações de violação de IA (ANPD, NIST, EU AI Act) em **evidência jurídica auditável + políticas Rego executáveis** em <300s.
 
----
+✅ 22 agentes especializados com orquestração determinística (SEK)  
+✅ Motor OPA/Rego com cadeia de auditoria imutável (SHA-256)  
+✅ Geração de ZIP forense: tese + evidências + políticas compiladas  
+✅ Arquitetura multi-tenant com PostgreSQL RLS + pgvector
 
-## 🔧 Core Project
+### 🤖 [Ezra Agent](https://github.com/FABIOEVERTON/Ezra_Agent)
+> Agente autônomo no Telegram com **governança production-grade desde o dia 1**.
 
-File Organizer Automation  
-
-Python-based automation system for structured file organization.
-
-- Rule-based file classification  
-- Modular architecture  
-- CLI-driven execution  
-- Container-ready (Docker)  
-
-Repository:  
-https://github.com/FABIOEVERTON/file-organizer  
+✅ Execução sandboxed com limites de syscall  
+✅ Filtro de PII + bloqueio de prompt injection  
+✅ Circuit breaker com fallback de modelo  
+✅ Log de auditoria imutável + hooks de compliance LGPD
 
 ---
 
-## 🧱 Repository Standards
+## 🛠️ Tech Stack
 
-Structure:
-
-/src  
-/docs  
-/docker  
-README.md  
-
-README includes:
-
-- Problem definition  
-- Architecture  
-- Tech stack  
-- Execution flow  
-- Setup  
-- Concepts applied  
-- Improvements  
+```yaml
+Languages:   Python · SQL · Rego · Bash
+Frameworks:  FastAPI · LangChain · agentscope
+AI/LLM:      OpenAI · Ollama · RAG · pgvector
+Governance:  OPA · NIST AI RMF · EU AI Act · LGPD · PL 2338/2023
+Infra:       Docker · GCP · PostgreSQL · Redis
+Security:    PII filtering · Audit trails · Policy-as-code
+```
 
 ---
 
-## 🔐 Kubernetes Security Labs
+## 🎯 Diferencial Único
 
-- RBAC and access control  
-- Network policies  
-- Pod security  
-- Runtime monitoring (Falco)  
-- Cluster auditing (kube-bench)  
-- Image scanning (Trivy)  
-
-Focus: security controls and validation logic in Kubernetes environments.
+```
+16 anos gerenciando projetos de construção (R$30M+) 
+→ 60+ escritórios corporativos entregues no prazo 
+→ Hoje aplico a mesma rigidez em sistemas de IA: 
+   "Se não pode ser auditado, não pode ser implantado."
+```
 
 ---
 
-## ☁️ Cloud Security Labs
+## 📚 Aprendizado Público (720 dias)
 
-- IAM modeling  
-- Container hardening  
-- Secrets management  
-- Infrastructure security basics  
+[![Progress](https://img.shields.io/badge/Block_0-Foundations-brightgreen)](https://github.com/FABIOEVERTON)
+[![CIPP/BR](https://img.shields.io/badge/Cert-CIPP%2FBR--Target%20Day%20169-blue)](https://github.com/FABIOEVERTON)
+[![AIGP](https://img.shields.io/badge/Cert-AIGP--Target%20Day%20170-blue)](https://github.com/FABIOEVERTON)
 
-Focus: security reasoning across cloud and container layers.
+✅ **Compromisso**: 1 commit/dia · Progresso verificável · Transparência total
 
----
-
-## 🧠 AI Governance Notes
-
-- Risk classification models  
-- Responsible AI principles  
-- NIST AI RMF  
-- EU AI Act  
-- Model governance  
-
-Focus: translation of regulatory frameworks into audit and validation contexts.
+*Roadmap completo: Linux/Python → Security → Cloud → AI Governance → Enterprise Architecture*
 
 ---
 
-## ⚙️ Automation Experiments
+## 🎓 Formação & Certificações
 
-- Python scripts  
-- API integrations  
-- Workflow automation  
-- Utility tools  
-
-Focus: continuous execution and applied automation.
-
----
-
-## 🔧 Technical Capabilities (Applied Context)
-
-- Python for automation and validation  
-- SQL for data querying and verification  
-- JSON for data inspection  
-- LLMs for structured analysis and audit support  
-- RAG for traceability  
-- Exposure to policy-as-code concepts (Rego)  
-
-Context: applied to audit, governance, and system validation — not heavy software engineering.
+- **Law School** (8 semestres) · UniProcessus
+- **Tecnólogo em Serviços Notariais** · UniProcessus
+- **CIPP/BR** (em progresso) · IAPP
+- **AIGP** (em progresso) · IAPP
+- **Google Cloud Fundamentals** · Google Cloud Skills Boost
 
 ---
 
-## 🏗️ Professional Background
+> 💡 *Open to collaborations in AI governance, regulatory tech, and auditable LLM systems.*  
+> 📩 Reach out via [LinkedIn](https://www.linkedin.com/in/fabio-everton-3b62b1129/) or open an issue.
 
-18 years managing complex construction operations (R$30M+ exposure).
+<!-- Made with purpose  -->
+```
 
-- Execution and delivery control  
-- Contract and risk management  
-- Multi-team coordination  
-- Systems thinking  
-
-Applied to technical environments: automation, infrastructure, and governance analysis.
-
----
-
-## 🧭 Direction
-
-- Automation systems  
-- Cloud security  
-- AI governance  
-- Technical audit and validation  
-
-Systems thinking and auditability define execution.
