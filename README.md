@@ -1,6 +1,4 @@
-
-
-```markdown
+````markdown
 # Fabio Everton 🇧🇷
 ### AI Governance Engineer | LLM Agents | OPA/Rego | LGPD & PL 2338/2023
 
@@ -15,20 +13,20 @@
 ## 🚀 Featured Projects
 
 ### 🛡️ [Fellow Governance](https://github.com/FABIOEVERTON/Fellow_Governance)
-> Transforma notificações de violação de IA (ANPD, NIST, EU AI Act) em **evidência jurídica auditável + políticas Rego executáveis** em <300s.
+> Transforms AI violation notifications (ANPD, NIST, EU AI Act) into **auditable legal evidence + executable Rego policies** in <300s.
 
-✅ 22 agentes especializados com orquestração determinística (SEK)  
-✅ Motor OPA/Rego com cadeia de auditoria imutável (SHA-256)  
-✅ Geração de ZIP forense: tese + evidências + políticas compiladas  
-✅ Arquitetura multi-tenant com PostgreSQL RLS + pgvector
+✅ 22 specialized agents with deterministic orchestration (SEK)  
+✅ OPA/Rego engine with immutable audit chain (SHA-256)  
+✅ Forensic ZIP generation: thesis + evidence + compiled policies  
+✅ Multi-tenant architecture with PostgreSQL RLS + pgvector  
 
 ### 🤖 [Ezra Agent](https://github.com/FABIOEVERTON/Ezra_Agent)
-> Agente autônomo no Telegram com **governança production-grade desde o dia 1**.
+> Autonomous Telegram agent with **production-grade governance from day 1**.
 
-✅ Execução sandboxed com limites de syscall  
-✅ Filtro de PII + bloqueio de prompt injection  
-✅ Circuit breaker com fallback de modelo  
-✅ Log de auditoria imutável + hooks de compliance LGPD
+✅ Sandboxed execution with syscall limits  
+✅ PII filter + prompt injection blocking  
+✅ Circuit breaker with model fallback  
+✅ Immutable audit logs + LGPD compliance hooks  
 
 ---
 
@@ -41,46 +39,42 @@ AI/LLM:      OpenAI · Ollama · RAG · pgvector
 Governance:  OPA · NIST AI RMF · EU AI Act · LGPD · PL 2338/2023
 Infra:       Docker · GCP · PostgreSQL · Redis
 Security:    PII filtering · Audit trails · Policy-as-code
+````
+
+---
+
+## 🎯 Unique Differentiator
+
+```
+16 years managing construction projects (R$30M+) 
+→ 60+ corporate offices delivered on schedule 
+→ Today I apply the same rigor to AI systems: 
+   "If it cannot be audited, it cannot be deployed."
 ```
 
 ---
 
-## 🎯 Diferencial Único
-
-```
-16 anos gerenciando projetos de construção (R$30M+) 
-→ 60+ escritórios corporativos entregues no prazo 
-→ Hoje aplico a mesma rigidez em sistemas de IA: 
-   "Se não pode ser auditado, não pode ser implantado."
-```
-
----
-
-## 📚 Aprendizado Público (720 dias)
+## 📚 Public Learning (720 days)
 
 [![Progress](https://img.shields.io/badge/Block_0-Foundations-brightgreen)](https://github.com/FABIOEVERTON)
 [![CIPP/BR](https://img.shields.io/badge/Cert-CIPP%2FBR--Target%20Day%20169-blue)](https://github.com/FABIOEVERTON)
 [![AIGP](https://img.shields.io/badge/Cert-AIGP--Target%20Day%20170-blue)](https://github.com/FABIOEVERTON)
 
-✅ **Compromisso**: 1 commit/dia · Progresso verificável · Transparência total
+✅ **Commitment**: 1 commit/day · Verifiable progress · Full transparency
 
-*Roadmap completo: Linux/Python → Security → Cloud → AI Governance → Enterprise Architecture*
-
----
-
-## 🎓 Formação & Certificações
-
-- **Law School** (8 semestres) · UniProcessus
-- **Tecnólogo em Serviços Notariais** · UniProcessus
-- **CIPP/BR** (em progresso) · IAPP
-- **AIGP** (em progresso) · IAPP
-- **Google Cloud Fundamentals** · Google Cloud Skills Boost
+*Full roadmap: Linux/Python → Security → Cloud → AI Governance → Enterprise Architecture*
 
 ---
 
-> 💡 *Open to collaborations in AI governance, regulatory tech, and auditable LLM systems.*  
-> 📩 Reach out via [LinkedIn](https://www.linkedin.com/in/fabio-everton-3b62b1129/) or open an issue.
+## 🎓 Education & Certifications
 
-<!-- Made with purpose  -->
+* **Law School** (8 semesters) · UniProcessus
+* **Technology Degree in Notarial Services** · UniProcessus
+* **CIPP/BR** (in progress) · IAPP
+* **AIGP** (in progress) · IAPP
+* **Google Cloud Fundamentals** · Google Cloud Skills Boost
+
 ```
+```
+
 
