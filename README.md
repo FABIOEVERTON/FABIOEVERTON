@@ -28,6 +28,16 @@ AI/LLM: OpenAI · Ollama · RAG · pgvector · ChromaDB
 Governance: OPA · NIST AI RMF · EU AI Act · LGPD · PL 2338/2023
 Infra: Oracle Cloud (OCI) · Docker · PostgreSQL · GitHub Actions
 Security: PII filtering · Audit trails · Policy-as-code
+🎯 Unique Differentiator
+16 years managing complex enterprise infrastructure (R$ 20M+) → 60+ corporate offices delivered.
+Today, I translate physical-infrastructure risk management and quality control into cloud-native AI system design. My core philosophy is: "If it cannot be audited, it cannot be deployed."
+
+🎓 Education & Certifications
+Postgraduate Degree in IT Governance · In progress
+Bachelor of Law (9 semesters completed) · UniProcessus (Focus on Digital Law, Contracts, and Compliance)
+Degree in Legal Operations & Notarial Sciences (Completed) · UniProcessus
+Certifications (In progress/Target): AIGP (IAPP) · CIPP/E (IAPP) · OCI Generative AI Professional
+
 ```
 ```
 
