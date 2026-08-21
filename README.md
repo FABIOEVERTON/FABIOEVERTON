@@ -1,176 +1,127 @@
 # FABIO EVERTON
+**AI GOVERNANCE ARCHITECT · GRC TECH · AGENTIC SYSTEMS · REGULATORY COMPLIANCE**  
+📍 Brasília, DF — Brazil | 🌐 Remote / Relocation  
+✉️ Fabio_Everton@proton.me | 🔗 linkedin.com/in/fabio-everton | 💻 github.com/FABIOEVERTON  
 
-## AI Governance Lead & Solutions Architect (OCI)
-
-**AI Governance · Multi-Agent Orchestration · Fluent English**
-
-📍 Brasília, DF — Brazil · Open to Remote / Relocation
-🔗 linkedin.com/in/fabio-everton · github.com/FABIOEVERTON
+> *"Rare intersection: builds AI agents · governs them at runtime · understands the regulation that constrains them."*
 
 ---
 
-## Profile
-
-Senior professional transitioning **16+ years of business execution — P&L, contracts, risk, governance, and compliance — into Cloud Architecture (OCI) and AI Systems Governance.**
-
-Currently advancing through the **Oracle ONE 2026** program and the **OCI certification track**, with a focus on building governed, multi-agent orchestration systems.
-
-Using **n8n, LangChain, RAG, and LangGraph on OCI**, I develop automated workflows that integrate enterprise tools to solve operational bottlenecks — with code that is public and verifiable on GitHub.
-
-I translate my foundational experience — delivering **60+ large-scale corporate projects from bare shell to full operation** — into cloud-native architectures and AI governance frameworks: systems that are **secure, auditable, and aligned with business goals.**
+### 🎯 CORE PILLARS
+- **TECHNICAL:** Builds the systems that need to be governed: agentic pipelines, RAG, HITL controls, immutable audit chains — in production code.
+- **REGULATORY:** Reads the norm and translates it into operational controls: NIST AI RMF, EU AI Act, LGPD, ISO 27001/27701 — applied, not cited.
+- **OPERATIONAL:** 16 years delivering under pressure: P&L, vendor risk, 60+ complex projects, R$20M+ — governance as a discipline, not a checklist.
 
 ---
 
-# Career Trajectory
+### 📝 PROFESSIONAL PROFILE
+AI Governance Architect with a rare triple foundation: the technical depth to build governed agentic systems from scratch; the regulatory fluency to interpret and operationalise NIST AI RMF, EU AI Act, LGPD, and ISO 27001/27701; and 16+ years of enterprise execution (P&L, contracts, vendor risk, compliance) across 60+ complex projects worth R$20M+.
 
-## AI Governance & Solutions Architect — Independent
-
-**Dec 2024 – Present**
-
-### Bridging Complex Project Delivery with Cloud Architecture & AI Systems Governance
-
-Applying enterprise-grade operational controls to digital workflows and autonomous AI agents.
-
-* **Multi-Agent Orchestration:** Designing governed workflows with n8n, LangChain, and LangGraph on OCI, integrating enterprise tools with predictable execution. Verifiable through GitHub: **9 public projects**, including production Telegram agents, RAG with ChromaDB, Docker, and CI/CD.
-* **AI Governance & Compliance:** AIGP candidate (IAPP), CIPP/E in progress; applying **NIST AI RMF, EU AI Act, and LGPD** to secure AI deployments.
-* **Operational Transformation:** Translating physical-infrastructure risk management and quality control into cloud-native system design.
-
-**Core Areas:**
-AI Governance · Cloud Architecture (OCI) · RAG Systems · Multi-Agent Orchestration · n8n · LangChain · Technical Program Management
+Currently completing a Postgraduate Specialisation in GRC Tech (UnP, 360h, MEC-recognised). Legal foundation (3,200h Law) enables direct reading of regulatory instruments — not reliance on interpretations.  
+**Governance philosophy:** Frameworks define what must be controlled; runtime is where control either exists or does not. Audit trails, HITL approvals, fail-closed defaults, and observability are built in from the first commit.  
+*Fluent English. Open to remote or relocation.*
 
 ---
 
-## Founder & Director of Operations — Agregata Engenharia e Construção
+### 💼 PROFESSIONAL EXPERIENCE
 
-**Jan 2010 – Dec 2024 · 15 yrs**
+**AI Governance Architect & Solutions Architect** | *Independent (Self-employed)*  
+*Dec 2024 – Present · Brazil, Remote*  
+- **Governed Agentic Systems:** Designs multi-agent systems where governance is a first-class engineering constraint. Agents operate under scoped credentials, rate limits, fail-closed defaults, and mandatory HITL approval.
+- **Audit & Observability:** Implements immutable audit ledger with SHA-256 chain, full JSONL observability per query, and OPA/Rego deterministic policy gates.
+- **Production RAG:** Active Telegram agent (`parashat_bot`) with 131 indexed sources; full RAG pipeline (`ezra_curator`) with ChromaDB, 1,500-token chunks, 1,024-dimension embeddings, confidence thresholds, and reranking.
+- **Control Plane:** Developing Ezra Control Plane with OPA/Rego governance gates to limit blast radius of compromised agents.
+- **Regulatory Application:** Translates NIST AI RMF, EU AI Act, and LGPD into audit trails, explainability logging, and privacy-by-design architecture. Published research synthesis of 39 regulatory/scientific sources.
+- **Engineering Governance:** CI/CD with GitHub Actions (lint, type/security checks, pytest 80% coverage, Docker). Monorepo on OCI A1.Flex. Stack: Python, LangGraph, LangChain, ChromaDB, n8n, Docker, OCI, Streamlit, FastAPI, Pydantic, Ragas, LangSmith.
 
-### Infrastructure & Project Delivery
+**Founder & Director of Operations** | *Agregata Engenharia e Construção*  
+*Jan 2010 – Dec 2024 · 15 yrs · Brazil*  
+- Delivered **R$20M+** across **60+ turn-key corporate projects** (data centres for banks, law firms, tech companies; 100+ residential units), managing full lifecycle.
+- Coordinated multidisciplinary teams of 50+ professionals across 8 disciplines with strict alignment to aggressive deadlines.
+- P&L ownership, procurement, and high-stakes vendor negotiations. Managed multi-vendor dependency chains with zero unnecessary contract add-ons.
+- Executed 6 high-complexity projects (R$2M+) with mission-critical data centres (CRAC/CRAH, double-conversion UPS, clean-agent fire suppression, DCIM).
+- *Translation to AI Governance:* Risk management in high-complexity environments, delivery compliance under pressure, orchestrating conflicting interests toward controlled outcomes.
 
-Led end-to-end delivery of **60+ turnkey corporate projects and 100+ residential units**, managing the entire lifecycle from planning to fully operational facilities.
+**Bank Operations Clerk** | *Banco do Brasil*  
+*Jan 2007 – Dec 2007 · Brazil*  
+- Selected via national competitive public examination (`concurso público`).
+- Back-office compliance: operational workflows tied to regulatory alignment, record keeping, structured data handling, and internal controls in a high-confidentiality environment.
 
-Served as the primary point of accountability for **scope, schedule, budget, and regulatory compliance.**
-
-* **Project & Operations Management:** Coordinated multidisciplinary teams, contractors, and suppliers across simultaneous projects, ensuring strict alignment with aggressive delivery timelines.
-* **Financial & Risk Governance:** Managed P&L, procurement, and high-stakes vendor negotiations. Implemented risk mitigation strategies to resolve critical bottlenecks in real time.
-* **Complex Infrastructure Integration:** Directed the deployment of mission-critical infrastructure, including IT structured cabling and integrated electrical systems, ensuring technical readiness and compliance.
-
-**Core Areas:**
-Project Operations · Full-Cycle Delivery · Risk Management · Vendor Coordination · P&L Ownership · Compliance · Multi-Team Orchestration
-
----
-
-## Banking Operations & Compliance — Banco do Brasil
-
-**Jan 2007 – Dec 2007 · 1 yr**
-
-Operated in a high-control banking back-office environment focused on **operational accuracy, data integrity, and compliance** across critical financial processes.
-
-* **Regulatory Compliance:** Executed standardized operational workflows for credit operations and contractual records, ensuring strict adherence to internal banking standards and federal frameworks.
-* **Data Integrity & Risk Control:** Maintained corporate data within core banking systems, handling structured data validation in a high-confidentiality, risk-aware environment.
-
-**Core Areas:**
-Data Integrity · Operational Compliance · Process Control · Audit Principles
+**Government Relations & Regulatory Coordination** | *MERCOPLAN*  
+*Jan 2004 – Dec 2006 · 3 yrs · Brazil*  
+- Coordinated institutional interactions between municipal agencies and federal ministries within formal governance frameworks.
+- Aligned complex project requirements with multi-level public administration constraints and federal regulations.
 
 ---
 
-## Government Relations & Regulatory Coordination — MERCOPLAN
+### 🎓 EDUCATION
 
-**Jan 2004 – Dec 2006 · 3 yrs**
+**Postgraduate Specialisation (Lato Sensu) — GRC Tech: AI Governance, Security & Compliance**  
+*Universidade Potiguar (UnP) · ÂNIMA Educação | Aug 2026 – Aug 2027 · 360h · MEC-recognised*  
+- Modular model: individual certificate per discipline (Algorithmic Governance, AI & Data Governance, Digital Law & Data Protection, Audit/Risk/Pentest, Applied Cryptography, Big Data Analytics, Generative AI for Decision, AI Strategies for Business).
 
-Operated in structured government-facing environments, coordinating interactions between municipal agencies and federal ministries.
+**Bachelor of Laws — 9 of 10 semesters completed (3,200+ hours)**  
+*UniProcessus (Centro Universitário Processus) | Jan 2021 – Dec 2024*  
+- Deep legal foundation: Digital Law, Human Rights, Consumer Protection, International Law, Ethics, Contracts, Regulatory Frameworks, Data Protection, Corporate Legal Operations.
 
-Focused on **regulatory alignment and project approval processes** within formal institutional frameworks.
-
-* **Regulatory Interpretation & Compliance:** Ensured complex project requirements were aligned with governmental constraints, federal regulations, and multi-level public administration procedures.
-* **Stakeholder Management & Governance:** Managed structured negotiations and institutional interfaces across complex systems, ensuring disciplined execution within formal public policies.
-
-**Core Areas:**
-Regulatory Alignment · Stakeholder Management · Public Policy · Institutional Operations
-
----
-
-# 🎓 Education & Certifications
-
-## 🎓 Postgraduate Specialization (Lato Sensu) in GRC Tech: AI Governance, Security & Compliance
-
-**School:** Universidade Potiguar (UnP)
-**Degree:** Postgraduate Specialization (Lato Sensu)
-**Field of study:** GRC Tech: AI Governance, Security & Compliance
-**Start date:** August 2026
-**End date (or expected):** August 2027
-**Grade:**
-**Activities and societies:** AI Governance · AI & Data Governance · Cybersecurity · Information Security · Regulatory Compliance
-**Description:**
-360h MEC-recognized postgraduate specialization focused on AI Governance, Security, Compliance, and digital regulation. Key modules include Algorithmic Governance; AI & Data Governance, Regulation & Ethics; NIST AI RMF; EU AI Act; Digital Law & Data Protection; LGPD; ISO 27001/27701; Audit, Risk & Pentest in Information Security; Applied Cryptography; Big Data Analytics; Generative AI for Decision & Management; and AI Strategies for Business.
+**Technologist Degree — Legal Operations & Notarial Sciences (Completed)**  
+*Centro Universitário Processus (UniProcessus) | Jan 2021 – Dec 2023*  
+- Operational understanding of corporate governance, legal risk management, information governance, Cyber Law, and dispute resolution.
 
 ---
 
-## ⚖️ Bachelor of Law
+### 🏆 CERTIFICATIONS
 
-**School:** UniProcessus
-**Degree:** Bachelor of Law
-**Field of study:** Law
-**Start date:** January 2021
-**End date (or expected):** December 2024
-**Grade:** 9 of 10 semesters completed
-**Activities and societies:**
-**Description:**
-Legal education focused on Digital Law, Contracts, Compliance, Ethics, Regulatory Frameworks, Data Protection, and Corporate Legal Operations. Nine of ten semesters completed, providing a legal foundation applied to AI governance, regulatory compliance, contracts, risk management, and technology governance.
+**✅ COMPLETED**  
+- **AI Engineering: Agents, RAG & Orchestration** | Alura (Jun 2026)  
+- **Oracle Cloud Infrastructure 2026 Foundations Associate** | Oracle (Jul 2026)  
+- **Model Context Protocol (MCP)** | Anthropic (Jun 2026 · ID: 86gqn992stp9)  
+- **Claude Subagents** | Anthropic (Jun 2026 · ID: ssv5w2kkeswi)  
+- **Building with the Claude API** | Anthropic (May 2026 · ID: txhnot8yv2ob)  
+- **Prepare Data for ML APIs on Google Cloud** | Google (Jun 2026)  
+- **Google Cloud Fundamentals: Core Infrastructure** | Google Cloud Skills Boost (Mar 2026)  
 
----
-
-## 📜 Degree in Legal Operations & Notarial Sciences
-
-**School:** Centro Universitário Processus (UniProcessus)
-**Degree:** Degree in Legal Operations & Notarial Sciences
-**Field of study:** Legal Operations & Notarial Sciences
-**Start date:** January 2021
-**End date (or expected):** December 2023
-**Grade:**
-**Activities and societies:**
-**Description:**
-Completed degree focused on Legal Operations, Notarial Sciences, Cyber Law, Corporate Law, Information Governance, regulatory processes, and legal documentation.
+**🎯 IN PROGRESS / TARGET (6-MONTH ROADMAP)**  
+- **IAPP:** AIGP (AI Governance Professional), CIPP/E (Certified Info. Privacy Professional/Europe)  
+- **Oracle:** OCI AI Professional, OCI Architect Professional (Multicloud)  
+- **Python Institute:** PCAP, PCPP1, PCEI, PCAI, PCAD, PCES, PCPP2  
+- **Infrastructure/Cloud:** GitHub Agents, Kubernetes (CKA or equivalent), AWS Cloud Practitioner / Associate  
 
 ---
 
-### 🏅 Certifications — In Progress / Target
-
-* **AIGP** — AI Governance Professional · IAPP
-* **CIPP/E** — Certified Information Privacy Professional/Europe · IAPP
-* **OCI Generative AI Professional** · Oracle
-
-### ✅ Certifications — Completed
-
-* **AI Engineering: Agents, RAG & Orchestration** — Alura · Jun 2026
-* **Oracle Cloud Infrastructure 2026 Foundations Associate** — Oracle · Jul 2026
-* **Model Context Protocol (MCP)** — Anthropic · Jun 2026
-* **Claude Subagents** — Anthropic · Jun 2026
-* **Prepare Data for ML APIs on Google Cloud** — Google Cloud · Jun 2026
-* **Building with the Claude API** — Anthropic · May 2026
-* **Google Cloud Fundamentals: Core Infrastructure** — Google Cloud · Mar 2026
+### 🛠️ SKILLS MATRIX
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **AI Governance & GRC** | NIST AI RMF, EU AI Act, LGPD, ISO 27001/27701, Algorithmic Governance, Audit Trail Design, HITL Controls, OPA/Rego, Privacy by Design, Risk Management, AI Ethics |
+| **Agentic Engineering** | Python, LangGraph, LangChain, ChromaDB, RAG, n8n, Docker, OCI, GitHub Actions, FastAPI, Pydantic, LangSmith, Ragas, Streamlit |
+| **Legal & Regulatory** | Digital Law, LGPD, Marco Civil, Corporate Law, Contracts, Cyber Law, Notarial Sciences, Regulatory Interpretation, Public Policy, Legal Operations |
+| **Business & Operations** | P&L Ownership, Stakeholder Management, Negotiation, Project Management, Value Engineering, Vendor Risk, Strategic Planning, Contractual Governance |
 
 ---
 
-# 🛠️ Skills
+### 💻 GITHUB — github.com/FABIOEVERTON
+All engineering work is public and verifiable. The repository covers three interconnected areas:  
+1. **Governed agentic systems:** Production agents with runtime controls, HITL, immutable audit chains, and fail-closed architecture.  
+2. **RAG and knowledge retrieval:** Full vector-indexed pipelines with observability, confidence thresholds, source citation, and evaluation sets.  
+3. **Governance infrastructure:** CI/CD with security gates, zero-secret enforcement, Docker, OCI deployment, and the Ezra Control Plane (in development) for agent blast-radius containment.  
 
-## ☁️ Cloud & Infrastructure
+*As new systems are built, they fall into one of these three areas — the architecture, not the list, is what matters.*
 
-**Oracle Cloud (OCI) · Cloud Architecture · CI/CD · Docker · Cloud Security · REST APIs**
+- **BRACHAT-MAIN:** Core technical monorepo. Production agents, RAG pipeline, multi-agent orchestration, HITL controls, CI/CD, Docker, OCI deployment and governance infrastructure.
+- **FABIOEVERTON.GITHUB.IO:** Personal portfolio and CV site. Live at fabioeverton.github.io — static, print-optimised, deployed via GitHub Pages.
+- **EZRA_AI_GOVERNANCE_FRAMEWORK:** Standalone documentation repository for the Ezra governance framework. Content in active development.  
+→ *VIEW ALL REPOSITORIES: Full profile and all public repositories on GitHub.*
 
-Developing: **Terraform · Kubernetes · Microservices**
+---
 
-## 🤖 AI & Data
+### 🌍 LANGUAGES
+- **Portuguese:** Native / Bilingual  
+- **English:** Professional Working Proficiency (Fluent)  
 
-**Generative AI · Large Language Models · RAG · LangChain · LangGraph · Agentic AI · Prompt Engineering · Python**
+---
 
-Developing: **SQL**
-
-## 🔐 Governance & Operations
-
-**AI Governance · AI Ethics · AI Policy & Regulation · IT Governance · Risk Management · Regulatory Compliance · Project Management · Solution Architecture**
-
-## 💼 Business & Strategy
-
+> **AGENT ADAPTATION NOTE**  
+> This is a master CV. All content is intentional and complete. To adapt for a specific role: identify the primary axis (AI Governance / GRC / DPO-Privacy / Legal-Regulatory / Business Strategy / Public Policy / Parliamentary Advisory), reorder sections to surface the most relevant pillar first, compress or remove bullets from non-relevant domains, and adjust the profile opening sentence to mirror the job description language. **Do not invent experience. Do not remove certifications. Do not alter the GitHub section content.**
 **Business Strategy · Stakeholder Management · Negotiation · Operations Management · Contractual Governance · Public Policy**
 
 ---
