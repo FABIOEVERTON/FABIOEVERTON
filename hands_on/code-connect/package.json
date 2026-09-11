@@ -1,0 +1,15 @@
+{
+  "name": "code-connect",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "web:dev": "pnpm --filter @code-connect/web dev",
+    "web:build": "pnpm --filter @code-connect/web build",
+    "api:dev": "pnpm --filter @code-connect/api dev",
+    "api:build": "pnpm --filter @code-connect/api build"
+  },
+  "packageManager": "pnpm@10.11.1",
+  "pnpm": {
+    "onlyBuiltDependencies": ["unrs-resolver"]
+  }
+}

@@ -1,0 +1,136 @@
+"""Web scraper using Playwright and BeautifulSoup."""
+
+import asyncio
+from typing import Optional
+from urllib.parse import urlparse
+
+from bs4 import BeautifulSoup
+from langchain_core.tools import tool
+from markdownify import markdownify as md
+from playwright.async_api import async_playwright
+
+from src.config import get_settings
+from src.models import Source
+
+
+class WebScraper:
+    """Web scraper using Playwright and BeautifulSoup."""
+
+    def __init__(self) -> None:
+        self.settings = get_settings()
+
+    async def scrape_url_async(self, url: str) -> Optional[Source]:
+        """Scrape content from a URL asynchronously.
+
+        Args:
+            url: The URL to scrape.
+
+        Returns:
+            Source object with scraped content or None if failed.
+        """
+        try:
+            async with async_playwright() as p:
+                browser = await p.chromium.launch(headless=self.settings.scraper_headless)
+                page = await browser.new_page()
+
+                # Navigate to URL
+                await page.goto(url, wait_until="domcontentloaded", timeout=self.settings.source_timeout * 1000)
+
+                # Wait for content to load
+                await page.wait_for_timeout(int(self.settings.scraper_delay * 1000))
+
+                # Get page content
+                html_content = await page.content()
+                await browser.close()
+
+            # Parse with BeautifulSoup
+            soup = BeautifulSoup(html_content, "html.parser")
+
+            # Extract title
+            title = soup.title.string if soup.title else urlparse(url).path
+
+            # Extract main content (remove scripts, styles, nav, footer)
+            for element in soup(["script", "style", "nav", "footer", "header", "aside"]):
+                element.decompose()
+
+            # Get text content
+            text_content = soup.get_text(separator="\n", strip=True)
+
+            # Convert to markdown for better readability
+            markdown_content = md(text_content)
+
+            # Clean up excessive whitespace
+            lines = markdown_content.split("\n")
+            cleaned_lines = [line.strip() for line in lines if line.strip()]
+            markdown_content = "\n".join(cleaned_lines)
+
+            return Source(
+                url=url,
+                title=title,
+                snippet=markdown_content[:500] + "..." if len(markdown_content) > 500 else markdown_content,
+                content=markdown_content,
+            )
+
+        except Exception as e:
+            print(f"Error scraping {url}: {e}")
+            return None
+
+    def scrape_url(self, url: str) -> Optional[Source]:
+        """Scrape content from a URL (sync wrapper).
+
+        Args:
+            url: The URL to scrape.
+
+        Returns:
+            Source object with scraped content or None if failed.
+        """
+        try:
+            loop = asyncio.get_event_loop()
+            if loop.is_running():
+                # If we're already in an async context, create a new task
+                import concurrent.futures
+                with concurrent.futures.ThreadPoolExecutor() as pool:
+                    return pool.submit(asyncio.run, self.scrape_url_async(url)).result()
+            else:
+                return loop.run_until_complete(self.scrape_url_async(url))
+        except RuntimeError:
+            return asyncio.run(self.scrape_url_async(url))
+
+    def extract_text(self, html: str) -> str:
+        """Extract text from HTML content.
+
+        Args:
+            html: HTML content string.
+
+        Returns:
+            Extracted text as markdown.
+        """
+        soup = BeautifulSoup(html, "html.parser")
+
+        # Remove unwanted elements
+        for element in soup(["script", "style", "nav", "footer"]):
+            element.decompose()
+
+        text = soup.get_text(separator="\n", strip=True)
+        return md(text)
+
+
+@tool
+def scrape_website(url: str) -> str:
+    """Scrape content from a website URL.
+
+    Args:
+        url: The URL to scrape.
+
+    Returns:
+        Scraped content in markdown format.
+    """
+    scraper = WebScraper()
+    source = scraper.scrape_url(url)
+
+    if source:
+        return f"**Title:** {source.title}\n\n**Content:**\n{source.content}"
+    return f"Failed to scrape content from {url}"
+
+
+__all__ = ["WebScraper", "scrape_website"]
