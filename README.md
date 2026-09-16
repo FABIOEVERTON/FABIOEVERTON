@@ -1,7 +1,7 @@
 # FABIO EVERTON
 **AI GOVERNANCE ARCHITECT · GRC TECH · AGENTIC SYSTEMS · REGULATORY COMPLIANCE**  
 📍 Brasília, DF — Brazil | 🌐 Remote / Relocation  
-🔗 linkedin.com/in/fabio-everton | 💻 github.com/FABIOEVERTON  
+✉️ Fabio_Everton@proton.me | 🔗 linkedin.com/in/fabio-everton | 💻 github.com/FABIOEVERTON  
 
 > *"Rare intersection: builds AI agents · governs them at runtime · understands the regulation that constrains them."*
 
